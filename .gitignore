@@ -1,0 +1,13 @@
+*.tmproj
+.DS_STORE
+*.o
+*.d
+*.a
+*.dep
+*.dsp
+*.dsw
+*.mak
+*.zip
+*.mmp
+*.inf
+

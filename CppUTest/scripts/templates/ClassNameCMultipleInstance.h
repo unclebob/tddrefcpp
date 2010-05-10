@@ -1,0 +1,15 @@
+#ifndef D_ClassName_H
+#define D_ClassName_H
+
+///////////////////////////////////////////////////////////////////////////////
+//
+//  ClassName is responsible for ...
+//
+///////////////////////////////////////////////////////////////////////////////
+
+typedef struct ClassName ClassName;
+
+ClassName* ClassName_Create(void);
+void ClassName_Destroy(ClassName*);
+
+#endif  // D_ClassName_H

@@ -1,0 +1,6 @@
+|Division|
+|Numerator|Denominator|Quotient?|
+|10|5|~=2.000|
+|15|5|~=3.000|
+|22|7|~=3.14|
+|9|5|~=2.0|
